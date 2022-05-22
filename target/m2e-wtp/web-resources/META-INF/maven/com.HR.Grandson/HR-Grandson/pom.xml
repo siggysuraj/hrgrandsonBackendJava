@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.HR.Grandson</groupId>
 	<artifactId>HR-Grandson</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HR-Grandson</name>
 	<description>HR and Grandson Project</description>
