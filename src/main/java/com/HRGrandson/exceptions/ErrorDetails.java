@@ -1,4 +1,4 @@
-package com.HR.Grandson.HR.Grandson.exception;
+package com.HRGrandson.exceptions;
 
 import java.util.Date;
 

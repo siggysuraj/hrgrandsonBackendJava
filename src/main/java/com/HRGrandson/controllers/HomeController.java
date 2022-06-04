@@ -1,4 +1,4 @@
-package com.HR.Grandson.HR.Grandson.controllers;
+package com.HRGrandson.controllers;
 
 import java.util.HashMap;
 import java.util.List;

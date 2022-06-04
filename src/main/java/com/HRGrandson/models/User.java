@@ -1,4 +1,4 @@
-package com.HR.Grandson.HR.Grandson.models;
+package com.HRGrandson.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

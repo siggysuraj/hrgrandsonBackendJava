@@ -1,4 +1,4 @@
-package com.HR.Grandson.HR.Grandson.services;
+package com.HRGrandson.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
